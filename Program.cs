@@ -97,14 +97,14 @@
 
     static string PickWord()
     {
-      string[] words =
-      [
-      "Hello",
-      "World",
-      "Duck",
-      "Cat",
-      "Dog",
-      ];
+      string[] words = new string[]
+      {
+          "Hello",
+          "World",
+          "Duck",
+          "Cat",
+          "Dog"
+      };
 
       Random random = new Random();
       int index = random.Next(0, words.Length);
