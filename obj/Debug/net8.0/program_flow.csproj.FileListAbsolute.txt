@@ -1,0 +1,14 @@
+/Users/taekimura/Desktop/program_flow/program_flow/obj/Debug/net8.0/program_flow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taekimura/Desktop/program_flow/program_flow/obj/Debug/net8.0/program_flow.AssemblyInfoInputs.cache
+/Users/taekimura/Desktop/program_flow/program_flow/obj/Debug/net8.0/program_flow.AssemblyInfo.cs
+/Users/taekimura/Desktop/program_flow/program_flow/obj/Debug/net8.0/program_flow.csproj.CoreCompileInputs.cache
+/Users/taekimura/Desktop/program_flow/program_flow/bin/Debug/net8.0/program_flow
+/Users/taekimura/Desktop/program_flow/program_flow/bin/Debug/net8.0/program_flow.deps.json
+/Users/taekimura/Desktop/program_flow/program_flow/bin/Debug/net8.0/program_flow.runtimeconfig.json
+/Users/taekimura/Desktop/program_flow/program_flow/bin/Debug/net8.0/program_flow.dll
+/Users/taekimura/Desktop/program_flow/program_flow/bin/Debug/net8.0/program_flow.pdb
+/Users/taekimura/Desktop/program_flow/program_flow/obj/Debug/net8.0/program_flow.dll
+/Users/taekimura/Desktop/program_flow/program_flow/obj/Debug/net8.0/refint/program_flow.dll
+/Users/taekimura/Desktop/program_flow/program_flow/obj/Debug/net8.0/program_flow.pdb
+/Users/taekimura/Desktop/program_flow/program_flow/obj/Debug/net8.0/program_flow.genruntimeconfig.cache
+/Users/taekimura/Desktop/program_flow/program_flow/obj/Debug/net8.0/ref/program_flow.dll
